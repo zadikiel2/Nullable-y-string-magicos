@@ -1,0 +1,13 @@
+C:\Users\lvale\Desktop\gavilanch\bin\Debug\netcoreapp3.1\gavilanch.exe
+C:\Users\lvale\Desktop\gavilanch\bin\Debug\netcoreapp3.1\gavilanch.deps.json
+C:\Users\lvale\Desktop\gavilanch\bin\Debug\netcoreapp3.1\gavilanch.runtimeconfig.json
+C:\Users\lvale\Desktop\gavilanch\bin\Debug\netcoreapp3.1\gavilanch.runtimeconfig.dev.json
+C:\Users\lvale\Desktop\gavilanch\bin\Debug\netcoreapp3.1\gavilanch.dll
+C:\Users\lvale\Desktop\gavilanch\bin\Debug\netcoreapp3.1\gavilanch.pdb
+C:\Users\lvale\Desktop\gavilanch\obj\Debug\netcoreapp3.1\gavilanch.csprojAssemblyReference.cache
+C:\Users\lvale\Desktop\gavilanch\obj\Debug\netcoreapp3.1\gavilanch.csproj.CoreCompileInputs.cache
+C:\Users\lvale\Desktop\gavilanch\obj\Debug\netcoreapp3.1\gavilanch.AssemblyInfoInputs.cache
+C:\Users\lvale\Desktop\gavilanch\obj\Debug\netcoreapp3.1\gavilanch.AssemblyInfo.cs
+C:\Users\lvale\Desktop\gavilanch\obj\Debug\netcoreapp3.1\gavilanch.dll
+C:\Users\lvale\Desktop\gavilanch\obj\Debug\netcoreapp3.1\gavilanch.pdb
+C:\Users\lvale\Desktop\gavilanch\obj\Debug\netcoreapp3.1\gavilanch.genruntimeconfig.cache
